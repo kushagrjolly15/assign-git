@@ -1,4 +1,12 @@
 What is a gitignore file and what should it include for a Java project?
+
+
+What does fast-forward in Git mean?
+
+Why should you have different branches?
+
+In a project how many remote Git repositories do you usually have?
+
 Gitignore file is a file which adds file extensions for files you would not want to put in source control.
 Java project will have below list of files in gitignore:
 # Compiled class file
@@ -32,3 +40,4 @@ If you make changes to the master branch of a group project while other people a
 
 In a project how many remote Git repositories do you usually have?
 For a project we should generally have one Git repository but we can have as many braches as possible.
+
